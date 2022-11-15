@@ -1,5 +1,5 @@
 # yolov7_egy_car_plates_detection
-yolov7 model for detecting egyptian cars plates number, with custom inference pipline to return xywh of the plates
+yolov7 model for detecting egyptian cars plates, with custom inference pipline to return xywh of the plates
 
 # Download
 ```git clone https://github.com/AbdelrhmanNile/yolov7_egy_car_plates_detection.git```
